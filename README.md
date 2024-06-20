@@ -11,6 +11,7 @@ So This is a base project from which you create all your QML projects from until
 - Rename the folder name and the name of the `*pro` file.
 - `git init` to start your own version control.
 - Fire up Qt Creator and configure the project.
+- Change the package name in the Android Manifest
 
 From there, you have your project base like you used to.
 Maybe run it in an emulator before you make changes to make sure everything is in place.
